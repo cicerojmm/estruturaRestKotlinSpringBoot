@@ -88,8 +88,8 @@
     </parent>
     <groupId>br.com.cpbsb</groupId>
     <artifactId>cpbsb</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <version>SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>cpbsb</name>
 
     <description>Demo project for Spring Boot</description>
